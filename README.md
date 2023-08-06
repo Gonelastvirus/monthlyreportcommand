@@ -1,5 +1,5 @@
 # monthlyreportcommand
-hostname
+<p>hostname</p>
 oslevel -s
 lmscode -c [ displays the platform system firmware ] 
 lspv [ The lspv command displays information about the physical volume ]
