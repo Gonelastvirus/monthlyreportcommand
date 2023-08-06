@@ -1,7 +1,7 @@
 # AIX monthly report commands
 
 ## power server
-# bash
+#bash
 <p>bash-4.4# hostname </p>
 <p>bash-4.4# oslevel -s </p>
 <p>bash-4.4# lmscode -c [ displays the platform system firmware ] </p>
