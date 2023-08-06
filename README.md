@@ -1,4 +1,5 @@
 # AIX monthly report commands
+
 ## power server
 # bash
 <p>bash-4.4# hostname </p>
@@ -23,7 +24,9 @@ capture topas screenshot
 ## cluster
 bash-4.4# cd /usr/es/sbin/cluster/utilities<br>
 bash-4.4# ./clRGinfo
-## vios
+## vios (padmin)
+### usage of backsapce in console
+$ set -o emacs [tells the shell to understand Emacs editing commands.]<br>
 $ hostname<br>
 $ ioslevel<br>
 $ lsmap -all<br>
