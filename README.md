@@ -13,7 +13,8 @@ lsdev -Cc adapter
 lsdev -Cc memory
 lsdev -Cc processor
 lsdev -Cc tape
-lsdev -Cc planar</pree>pree>
+lsdev -Cc planar
+</pree>
 
 # cluster
 cd /usr/es/sbin/cluster/utilities
