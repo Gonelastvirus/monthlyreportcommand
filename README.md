@@ -24,11 +24,11 @@ capture topas screenshot
 bash-4.4# cd /usr/es/sbin/cluster/utilities<br>
 bash-4.4# ./clRGinfo
 ## vios
-$ hostname
-$ ioslevel
-$ lsmap -all
-$ lsmap -all -net
-$ lsmap -all -npiv
+$ hostname<br>
+$ ioslevel<br>
+$ lsmap -all<br>
+$ lsmap -all -net<br>
+$ lsmap -all -npiv<br>
 $  df -g
 <p>
 $ lsdev -Cc disk<br>
