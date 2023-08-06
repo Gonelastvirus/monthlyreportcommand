@@ -5,7 +5,7 @@
 <p>lspv [ The lspv command displays information about the physical volume ]</p>
 <p>lsvg [  To determine a volume group's ]</p>
      lsvg -p rootvg
-     lsvg -l rootvg
+     lsvg -l rootvg<br>
 <p>df -g</p>
 <p>
 lsdev -Cc disk<br>
