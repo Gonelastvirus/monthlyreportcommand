@@ -7,14 +7,14 @@
      lsvg -p rootvg
      lsvg -l rootvg
 <p>df -g</p>
-<pree>
-lsdev -Cc disk
-lsdev -Cc adapter
-lsdev -Cc memory
-lsdev -Cc processor
-lsdev -Cc tape
-lsdev -Cc planar
-</pree>
+<p>
+lsdev -Cc disk<br>
+lsdev -Cc adapter<br>
+lsdev -Cc memory<br>
+lsdev -Cc processor<br>
+lsdev -Cc tape<br>
+lsdev -Cc planar<br>
+</p>
 
 # cluster
 cd /usr/es/sbin/cluster/utilities
