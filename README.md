@@ -1,22 +1,44 @@
 # monthlyreportcommand
-<p>hostname</p>
-<p>oslevel -s</p>
-<p>lmscode -c [ displays the platform system firmware ] </p>
-<p>lspv [ The lspv command displays information about the physical volume ]</p>
-<p>lsvg [  To determine a volume group's ]</p>
-     lsvg -p rootvg
-     lsvg -l rootvg<br>
-<p>df -g</p>
+## power server
+# bash
+<p>bash-4.4# hostname </p>
+<p>bash-4.4# oslevel -s </p>
+<p>bash-4.4# lmscode -c [ displays the platform system firmware ] </p>
+<p>bash-4.4# lspv [ The lspv command displays information about the physical volume ]</p>
+<p>bash-4.4# lsvg [  To determine a volume group's ]</p>
+     bash-4.4# lsvg -p rootvg
+     bash-4.4# lsvg -l rootvg<br>
+<p>bash-4.4# df -g</p>
 <p>
-lsdev -Cc disk<br>
-lsdev -Cc adapter<br>
-lsdev -Cc memory<br>
-lsdev -Cc processor<br>
-lsdev -Cc tape<br>
-lsdev -Cc planar<br>
+bash-4.4# lsdev -Cc disk<br>
+bash-4.4# lsdev -Cc adapter<br>
+bash-4.4# lsdev -Cc memory<br>
+bash-4.4# lsdev -Cc processor<br>
+bash-4.4# lsdev -Cc tape<br>
+bash-4.4# lsdev -Cc planar<br>
+</p>
+capture topas screenshot
+<p>bash-4.4# topas </P>
+
+## cluster
+bash-4.4# cd /usr/es/sbin/cluster/utilities<br>
+bash-4.4# ./clRGinfo
+## vios
+$ hostname
+$ ioslevel
+$ lsmap -all
+$ lsmap -all -net
+$ lsmap -all -npiv
+$  df -g
+<p>
+$ lsdev -Cc disk<br>
+$ lsdev -Cc adapter<br>
+$ lsdev -Cc memory<br>
+$ lsdev -Cc processor<br>
+$ lsdev -Cc tape<br>
+$ lsdev -Cc planar<br>
 </p>
 
-# cluster
-cd /usr/es/sbin/cluster/utilities<br>
-./clRGinfo
+
+
 
