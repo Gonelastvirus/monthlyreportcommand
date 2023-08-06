@@ -23,7 +23,7 @@ capture topas screenshot
 
 ## cluster
 bash-4.4# cd /usr/es/sbin/cluster/utilities<br>
-bash-4.4# ./clRGinfo
+bash-4.4# ./clRGinfo -p
 ## vios (padmin)
 $ set -o emacs [tells the shell to understand Emacs editing commands e.g. backspace key]<br>
 $ hostname<br> 
