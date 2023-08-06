@@ -6,7 +6,7 @@
 <p>bash-4.4# lmscode -c [ displays the platform system firmware ] </p>
 <p>bash-4.4# lspv [ The lspv command displays information about the physical volume ]</p>
 <p>bash-4.4# lsvg [  To determine a volume group's ]</p>
-     bash-4.4# lsvg -p rootvg
+     bash-4.4# lsvg -p rootvg <br>
      bash-4.4# lsvg -l rootvg<br>
 <p>bash-4.4# df -g</p>
 <p>
