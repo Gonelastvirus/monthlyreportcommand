@@ -17,6 +17,6 @@ lsdev -Cc planar<br>
 </p>
 
 # cluster
-cd /usr/es/sbin/cluster/utilities
+cd /usr/es/sbin/cluster/utilities<br>
 ./clRGinfo
 
