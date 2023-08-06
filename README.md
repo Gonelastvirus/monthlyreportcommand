@@ -1,4 +1,4 @@
-# monthlyreportcommand
+# AIX monthly report commands
 ## power server
 # bash
 <p>bash-4.4# hostname </p>
