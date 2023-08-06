@@ -25,9 +25,8 @@ capture topas screenshot
 bash-4.4# cd /usr/es/sbin/cluster/utilities<br>
 bash-4.4# ./clRGinfo
 ## vios (padmin)
-### usage of backsapce in console
-$ set -o emacs [tells the shell to understand Emacs editing commands.]<br>
-$ hostname<br>
+$ set -o emacs [tells the shell to understand Emacs editing commands e.g. backspace key]<br>
+$ hostname<br> 
 $ ioslevel<br>
 $ lsmap -all<br>
 $ lsmap -all -net<br>
