@@ -22,7 +22,7 @@ bash-4.4# lsdev -Cc planar<br>
 capture topas screenshot
 <p>bash-4.4# topas </P>
 <p>errpt</p>
-<p>errpt -i -j <err_code> </p>
+<p>errpt -i -j err_code </p>
 <p>errclear 0</p>
 
 ## cluster
