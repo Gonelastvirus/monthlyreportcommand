@@ -50,6 +50,7 @@ capture topas screenshot
 <p>errclear 0</p>
 
 ## cluster
+cluster of: finapp1,findb1,finweb1,finapp2,findb2,finweb2  
 bash-4.4# cd /usr/es/sbin/cluster/utilities<br>
 bash-4.4# ./clRGinfo -p
 ## vios (padmin)
