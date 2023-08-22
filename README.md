@@ -31,7 +31,7 @@
 <p>bash-4.4# lsmcode -c [ displays the platform system firmware ] </p>
 <p>bash-4.4# lsps -a [paging info]</p>
 <p>bash-4.4# lspv [ The lspv command displays information about the physical volume ]</p>
-<p>bash-4.4# lsvg [  To determine a volume group's ]</p>
+<p>bash-4.4# lsvg [  To determine a volume group's ](Take each vg)</p>
      bash-4.4# lsvg -p rootvg <br>
      bash-4.4# lsvg -l rootvg<br>
 <p>bash-4.4# df -g</p>
@@ -59,14 +59,21 @@ $ ioslevel<br>
 $ lsmap -all<br>
 $ lsmap -all -net<br>
 $ lsmap -all -npiv<br>
-$  df -g
+$ r o
+#lsps -a
+#lsps -a
+#lspv 
+#lsvg
+#lsvg -p rootvg
+#lsvg -l rootvg (Take every vg)
+#df -g
 <p>
-$ lsdev -Cc disk<br>
-$ lsdev -Cc adapter<br>
-$ lsdev -Cc memory<br>
-$ lsdev -Cc processor<br>
-$ lsdev -Cc tape<br>
-$ lsdev -Cc planar<br>
+#lsdev -Cc disk<br>
+#lsdev -Cc adapter<br>
+#lsdev -Cc memory<br>
+#lsdev -Cc processor<br>
+#lsdev -Cc tape<br>
+#lsdev -Cc planar<br>
 </p>
 
 
