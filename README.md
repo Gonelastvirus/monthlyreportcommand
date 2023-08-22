@@ -1,4 +1,28 @@
 # AIX monthly report commands
+# VIO Client Report
+## Finacle Application Server (finapp1)
+## Finacle Database Server (findb1)
+## Finacle Web Server (finweb1)
+## Finacle Web Server (finweb2)
+## Finacle Application Server – HA (finapp2)
+## Finacle Database Server - HA (findb2)
+## Finacle DR Application Server (drappserv)
+## Finacle DR Database Server (drdbserv)
+## Finacle DR Web Server (drwebserv)
+
+# screenshot
+## Storage-DC
+## Storage-NDR
+## Storage-DR
+## HMC
+     ### HMC VIO-A
+     ### HMC VIO-B
+## (Integrated virtual Manager) IVM-DR
+## Tape-DC
+## Tape-DR
+## SAN-A
+## SAN-B
+
 
 ## power server
 #bash
