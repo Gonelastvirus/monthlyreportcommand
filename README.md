@@ -53,6 +53,12 @@ capture topas screenshot
 cluster of: finapp1,findb1,finweb1,finapp2,findb2,finweb2  
 bash-4.4# cd /usr/es/sbin/cluster/utilities<br>
 bash-4.4# ./clRGinfo -p
+## NTP server 
+-bash-4.4# ntpq -p
+-bash-4.4# ntpdate -d <ip>
+{find stratum 2, precision -24, leap 00, trust 000} { if its hope count > 2 NTP not sync}
+## Sysog ststus
+-bash-4.4# lssrc -s syslogd 
 ## vios (padmin)
 $ set -o emacs [tells the shell to understand Emacs editing commands e.g. backspace key]<br>
 $ hostname<br> 
